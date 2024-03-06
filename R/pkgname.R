@@ -30,7 +30,7 @@
 #' Kehui Chen
 #' Pedro Delicado
 #' Su I Iao
-#' Hang Chen
+#' Hang Zhou
 #' Han Chen
 #' Muqing Cui
 #'

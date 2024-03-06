@@ -1,4 +1,4 @@
-da9696bc64c048c835c53584ac99fc72 *DESCRIPTION
+9c700bb898f6733a06b3bf02e8771a6f *DESCRIPTION
 6b3e59c48a4083db4299ed3c18264f93 *LICENSE
 6a9f061d168fba0ca4a9df350e106677 *NAMESPACE
 89b91bf7f7ee6161d774a1869c72195f *R/CVLwls1D.R
@@ -11,13 +11,13 @@ eed903ccacb5cda744a06b04c7a75176 *R/RcppExports.R
 2ed5e306aa026c540fd6b47bc9fd8dc8 *R/SparseMarginalFPCA.R
 3563b76b1320f7ca542aed7725f18908 *R/SparseProductFPCA.R
 87efa6505b1678ef4ecd766b3a6da02b *R/mFPCA.lm.R
-072dd7206bf1aaee26deca0d02d1388b *R/pkgname.R
+154c9e22710a2d8113ca019a7638c0ed *R/pkgname.R
 1334bd68444b1f3ded74e2d4325e5b71 *man/Dense2dFPCA.Rd
 b0b5ab37ccd938ee1bf4d2a21934e3d9 *man/DenseMarginalFPCA.Rd
 caf459ccd386dac5f3e748c853080197 *man/DenseProductFPCA.Rd
 b50797eb82d62319ee72865137186d11 *man/SparseMarginalFPCA.Rd
 472d37fa36fcdf0bd52184a30f8ae1e4 *man/SparseProductFPCA.Rd
-16a40c6abe6bdac0c5eb69e2903d25d6 *man/fdarep.Rd
+edee68339955c97e3fac55ecfc62d949 *man/fdarep.Rd
 841044ee0ff7b3c1db141e1152d622db *src/GetIndCEScoresCPP.cpp
 4ccb99780524c6188e6b28bb6498588d *src/GetIndCEScoresCPPnewInd.cpp
 34be1a2a2fcbe259860f7029c6c25412 *src/RcppExports.cpp
